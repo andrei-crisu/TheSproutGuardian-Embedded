@@ -24,7 +24,7 @@ Description: This water pump is used for automatic irrigation in the Sprout Guar
 ### Battery Plug Connector 9V
 Description: This is a plug connector specifically designed for connecting the 9V battery.
 <div align="center">
-    <img src="BatteryPlugConnector_9V.jpg" alt="Battery Plug Connector 9V" />
+    <img src="other_resources/BatteryPlugConnector_9V.jpg" alt="Battery Plug Connector 9V" />
 </div>
 <br><br>
 
